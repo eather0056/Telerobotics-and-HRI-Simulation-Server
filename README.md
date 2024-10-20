@@ -132,4 +132,3 @@ This project implements several tasks as outlined in the course, including the i
 
 ## License
 This project is licensed under the **GPL-3.0 License**. See the [LICENSE](LICENSE) file for details.
-```
