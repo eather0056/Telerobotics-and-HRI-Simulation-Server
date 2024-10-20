@@ -1,0 +1,6 @@
+Lab 1 Submission: Telerobotics and HRI - Simulation Server
+
+This submission contains the project developed for Lab 1 in the Telerobotics and Human-Robot Interaction (HRI) course. The project involves setting up a simulation server using Unity and ROS for teleoperating an underwater robot (BlueRov). The environment includes a custom-designed pool scene with realistic water simulation using Unity's High Definition Rendering Pipeline (HDRP). The integration with ROS allows for real-time teleoperation and data exchange between Unity and ROS nodes.
+
+For detailed information and the complete project code, please refer to the GitHub repository:
+https://github.com/eather0056/Telerobotics-and-HRI-Simulation-Server

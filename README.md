@@ -92,6 +92,9 @@ This project implements several tasks as outlined in the course, including the i
    - ROS1: `https://github.com/ros-teleop/teleop_twist_keyboard.git`
    - ROS2: `https://github.com/ros2/teleop_twist_keyboard.git`
 2. Scripted Unity to subscribe to ROS velocity commands (`cmd_vel`) and applied them to the BlueRov model.
+```bash
+ros2 run teleop_twist_keyboard teleop_twist_keyboard --ros-args --remap cmd_vel:=/bluerov1/cmd_vel
+```
 3. Adjusted camera viewports to display multiple perspectives, including top-down and underwater views.
 
 ### Camera Integration
