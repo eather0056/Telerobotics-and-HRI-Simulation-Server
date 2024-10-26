@@ -365,6 +365,8 @@
 -r:"Library/Bee/artifacts/2400b0aE.dag/Unity.Robotics.ROSTCPConnector.ref.dll"
 -r:"Library/Bee/artifacts/2400b0aE.dag/Unity.Robotics.UrdfImporter.Editor.ref.dll"
 -r:"Library/Bee/artifacts/2400b0aE.dag/Unity.Robotics.UrdfImporter.ref.dll"
+-r:"Library/Bee/artifacts/2400b0aE.dag/Unity.Robotics.Visualizations.Editor.ref.dll"
+-r:"Library/Bee/artifacts/2400b0aE.dag/Unity.Robotics.Visualizations.ref.dll"
 -r:"Library/Bee/artifacts/2400b0aE.dag/Unity.Searcher.Editor.ref.dll"
 -r:"Library/Bee/artifacts/2400b0aE.dag/Unity.ShaderGraph.Editor.ref.dll"
 -r:"Library/Bee/artifacts/2400b0aE.dag/Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.ref.dll"

@@ -74,7 +74,8 @@ This project implements several tasks as outlined in the course, including the i
    - `https://github.com/Unity-Technologies/ROS-TCP-Connector.git`
 2. Configured the ROS workspace to include the ROS TCP endpoint:
    ```bash
-   roslaunch ros_tcp_endpoint endpoint.launch
+   ros2 launch ros_tcp_endpoint endpoint.launch
+   ros2 launch ros_tcp_endpoint endpoint.py
    ```
 3. Connected Unity to the ROS environment, enabling real-time data exchange between the simulation and the robot control system.
 

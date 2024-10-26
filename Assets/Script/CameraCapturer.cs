@@ -11,7 +11,9 @@ public class CameraRosPublisher : MonoBehaviour
     public int resolutionWidth = 640;
     public int resolutionHeight = 480;
     public int qualityLevel = 75; // JPEG quality level (0-100)
-    public Camera camera;
+    
+    // Use 'new' keyword to hide inherited member 'Component.camera'
+    public new Camera camera;
     public float publishRate = 0.1f; // Publish every 0.1 seconds (10 Hz)
 
     private ROSConnection ros;
