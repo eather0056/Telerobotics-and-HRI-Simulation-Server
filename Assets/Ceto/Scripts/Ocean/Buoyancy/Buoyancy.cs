@@ -111,7 +111,7 @@ namespace Ceto
 
 			BuoyantForce = Physics.gravity * -Fb;
 
-			Vector3 velocity = body.velocity;
+			Vector3 velocity = body.linearVelocity;
 
 			float vm = velocity.magnitude;
 			velocity = velocity.normalized * vm * vm * -1.0f;
