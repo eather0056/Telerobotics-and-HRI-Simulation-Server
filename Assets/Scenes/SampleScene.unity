@@ -7494,7 +7494,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 11215cd8579dd5ba6ac79c17c8b2dab1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  compressedImageTopic: /camera/image/compressed
+  compressedImageTopic: /camera/image_raw/compressed
   rawImage: {fileID: 1253591025}
 --- !u!114 &1253591025
 MonoBehaviour:
